@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>jooo-joo restaurant</title>
+    <link rel="stylesheet" href ="style.css"><title>Document</title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head> 
+<body>
+    <section class="header">
+<nav>
+<a href= ><img src="1.png"></a>
+<div class="nav-links" id="navLinks">
+    <i class="fa fa-times" onclick="hideMenu()"></i>
+<ul>
+    <li><a href="home.html">HOME</a> </li>  
+    <li><a href="index2.html">SERVICES/BRANCHES</a> </li>    
+    <li><a href="food.html">MENU</a> </li>    
+    <li><a href="aboutus.html">CONTACT US</a> </li>
+    <li><a href="review.html">REVIEW</a>  </li>    
+</ul>
+
+</div>
+<i class="fa fa-bars" onclick="showMenu()"></i>
+</nav>
+        <div class="text-box">
+        <h1>INDIA'S BIGGEST RESTAURANT<BR>
+       <h1> JOO-JOO RESTAURANT</h1>
+        <p><b>One cannot think well, love well, sleep well, <br>if one has not dined well."</b></p>
+    <a href="cta.html" class="hero-btn">ORDER YOUR TABLE NOW</a>
+    </div>
+</section>
+
+
+<section class="course">
+    <h2> 50 BEST AUTHENTIC DISHES IN INDIA</h2>
+<p><b>Where every flavor tells a story.<b></p>
+</p>
+<div class="row">
+    <div class="course-col">
+    <h2>INDIAN DISHES</h2>
+     <p>1.Tikka Masala<br>
+        2.Butter Chicken<br>
+        3.Korma<br>
+        4.Malai Kofta<br>
+        5.Vindaloo<br>
+        6.Rogan Josh<br>
+        7.Karaikudi Curry
+        8.Butter Naan<br>
+        9.Boneless meat<br>
+        10.malai kofta<br>
+            </p>
+        </div>
+        
+      
+            <div class="course-col">
+            <h2>MEXICAN DISHES</h2>
+            <p>1.Tacos al pastor<br>
+                2.Tostadas<br>
+                3.Chiles en nogada<br>
+                4.Elote <br>
+                5.Enchiladas<br>
+                6.Mole<br>
+                7.Guacamole<br>
+                8.Tostadas<br>
+                9.Chiles en nogada<br>
+                10.Elote<br>
+                </p>
+                </div>
+               
+                <div class="course-col">
+                <h2>ITALIAN DISHES</h2>
+                <p>1.Pizza.<br>
+                    2.Pasta.<br>
+                    3.Arancini.<br>
+                    4.Focaccia.<br>
+                    5.Italian Cheese.<br>
+                    6.Lasagna.<br>
+                    7.Ossobuco.<br>
+                    8.Risotto.<br>
+                    9.Burrata Salad<br>
+                    10.Spaghetti <br>
+            </p></div></section>
+
+
+<section class="campus">
+<h1>OUR BRANCHES ALL OVER INDIA</h1>
+<p>OUR BRANCHES ARE ALLOVER IN INDIA.AS IT IS A LEADING RESTAURANT IN INDIA.OUR RESTAURANT IS IN TOP 3 RESTAURANTS OF INDIA </p>
+<div class ="row">
+    <div class="campus-col">
+        <img src="1.jpg">
+        <div class="layer">
+            <h3>MAHARASHTRA</h3>
+        </div>
+        </div>
+
+        <div class="campus-col">
+            <img src="2.jpg">
+            <div class="layer">
+                <h3>TAMILNADU</h3>
+            </div>
+                </div>
+            <div class="campus-col">
+                <img src="s.webp">
+                <div class="layer">
+                    <h3>KARNATAKA</h3>
+                </div></div>
+
+
+                <div class="campus-col">
+            <img src="el-patio-donde-sabes.jpg">
+            <div class="layer">
+                <h3>ANDHRA PRADESH</h3>
+            </div></div>
+
+            <div class="campus-col">
+                <img src="w.webp">
+                <div class="layer">
+                    <h3>BIHAR</h3>
+                </div>  </div></section>
+
+
+
+                <section class="facilities">
+                    <h1>OUR MOST POPULAR CUISINES</h1>
+                <p>Mumbai is a pretty saturated space when it comes to restaurants, and eating out in general. Nearly every global cuisine is well represented, and no matter how meagre or extravagant your budget is, there’s always going to be a meal you can enjoy that’s worth every penny. That being said, the number of choices can make that decision confusing. So we've taken it upon us to sort you out for when you want to have a good meal, and want to rely on the greats to make it memorable.
+                 </p>
+                 <div class="row">
+
+                    <div class="facilities-col">
+                        <img src="000.jpg">
+                        <h3>CHICKEN TANDOORI</h3>
+                        <p>Tandoori chicken being prepared in a tandoor oven. Raw chicken parts are skinned then marinated in a mixture of dahi (yogurt) and tandoori masala, a spice blend.</p>
+                    </div>
+                 
+
+                 
+                    <div class="facilities-col">
+                        <img src="33.jpeg">
+                        <h3>KARAIKUDI CURRY</h3>
+                        <p>It is an authentic chettinad dish, very spicy, hot, tasty and flavorful. Karaikudi is famous for its lipsmacking cuisine in Tamil Nadu.</p>
+                    </div>
+
+                   
+                        <div class="facilities-col">
+                        <img src="9.jpg">
+                            <h3> CHEESE BURST PIZZA</h3>
+                            <p>It's simple yet versatile, it's comforting, it brings back happy memories, and it's just plain delicious! Whether you are grabbing a slice from the best pizza in our restaurant</p>
+                        
+                        </div>
+                    </div>
+
+                    </section>
+
+
+                    <section class="review">
+                                <h1>REVIEW ABOUT OUR RESTAURANTS</h1>
+                                <p>SOME OPINION WHICH OUR CUSTOMER SHARED WITH US... </p>
+
+                            <div class="row">
+                                <div class="review-col"> 
+                             <img src="download.jpeg" >
+
+                                <div>
+                                    <p>Had brunch at this restaurant one time and since then this place is my favorite one. 
+                                        The food quality and services are top-class. You should try it once. 
+                                        I think this is the best pizza restaurant in the entire area.
+                                        Love this place and the food is just awesome. 
+                                        Can’t stop myself from visiting this restaurant over again. 
+                                         </p>
+                                        <h3>RAMAKANTH JAYSINGH</h3>
+                                        <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star-half-o" ></i>
+                                    </div>
+                                    </div>
+                                    <div class="review-col"> 
+                                        <img src="Woman_at_Lover's_Bridge_Tanjung_Sepat_(cropped).jpg">
+                                        <div>
+                                            <p>Great food, great services, perfect location, what else do you expect? 
+                                                To me, this is one of the best places to dine out. 
+                                                Forget about the rest, this restaurant is simply the perfect one. 
+                                                Excellent services, they maintain cleanliness and take care of your needThe perfect place for family functions and celebrations. 
+                                                </p>
+                                       <h3>JASMINE</h3>
+                                       <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star" ></i>
+                                        <i class="fa fa-star" ></i>
+                                       </div>
+                                       </div>
+                                    </div>
+                                </section>
+
+                                <section class="cta">
+                                 <h1>Book your table now<br>
+                                Don't miss our special offer!</h1>
+                                 <a href="" class="hero-btn">contact us</a>       
+                                </section>
+
+<section class="footer">
+<h3><b>ABOUT US</b></h3>
+<p><b>Welcome to JOO-JOO RESTAURANT </b>     <br>
+    
+    Nestled in the heart of INDIA, JOO-JOO RESTAURANT is the culmination of a lifelong dream and a shared passion for exceptional dining. Established in 1987, our journey began with a simple desire—to create a haven where flavors dance, and every meal is a celebration.<br>
+    
+    At JOO-JOO RESTAURANT, we cherish the feedback of our patrons. Your thoughts, suggestions, and experiences are the driving force behind our constant quest for improvement. Share your journey with us, and let’s continue to create memories together.
+    Thank you for being a part of our culinary adventure. We’re excited to have you at [Your Restaurant Name] and look forward to making your dining experiences truly exceptional.<br>
+    
+    Sincerely, <br>
+    ESAKIAMMAL YADAV<br>
+    Founder & Head Chef, [JOO-JOO RESTAURANT]<br>
+    
+    </p>
+<div class="icons">
+    <i class="fa fa-facebook" ></i>
+    <i class="fa fa-twitter" ></i>
+    <i class="fa fa-telegram" ></i>
+    <i class="fa fa-instagram" ></i>
+    <i class="fa fa-linked in" ></i>
+    </div>
+    <p>made with <i class="fa fa-heart-o" ></i>by easy restaurants</p>
+
+</section>
+<script>
+var navLinks = document.getElementById("navLinks");
+
+function showMenu(){
+    navLinks.style.right = "0";
+}
+function hideMenu(){
+    navLinks.style.right = "-200px";
+}
+
+
+</script>
+</body>
+</html>
